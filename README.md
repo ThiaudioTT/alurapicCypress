@@ -4,6 +4,10 @@ Projto teste para o cypress.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
 
+## Node
+
+Versão v16.13.1 precisa ser utilizada
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
