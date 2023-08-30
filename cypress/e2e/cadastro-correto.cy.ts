@@ -1,3 +1,5 @@
+// eh bom separar caminhos felizes e caminhos tristes
+
 describe('Página de cadastro', () => {
   it('Preencher os campos do formulario corretamente para novo cadastro', () => {
     cy.visit('http://localhost:4200/#/home');
