@@ -1,5 +1,5 @@
 describe('Página de login', () => {
-  it('Verificar mensagem de campos obrigatórios', () => {
+  it('Deve se logar corretamente', () => {
     cy.visit('http://localhost:4200/#/home');
 
     // login: catarinap
